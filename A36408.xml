@@ -1,0 +1,356 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Given to the Elector Prince Charls of the Rhyne from the Lady Eleanor, anno 1633. At her being in Holland or Belgia. Lamentation, mourning and wo. Witness, how washt the late cup; that of Noahs, &amp;c.</title>
+            <title>Given to the Elector Prince Charles of the Rhyne from the Lady Eleanor, anno 1633.</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36408</idno>
+            <idno type="STC">Wing D1993</idno>
+            <idno type="STC">ESTC R214996</idno>
+            <idno type="EEBO-CITATION">99827013</idno>
+            <idno type="PROQUEST">99827013</idno>
+            <idno type="VID">31425</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31425)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1883:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Given to the Elector Prince Charls of the Rhyne from the Lady Eleanor, anno 1633. At her being in Holland or Belgia. Lamentation, mourning and wo. Witness, how washt the late cup; that of Noahs, &amp;c.</title>
+                  <title>Given to the Elector Prince Charles of the Rhyne from the Lady Eleanor, anno 1633.</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>10; 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Frederick Stam,</publisher>
+                  <pubPlace>Amsterdam :</pubPlace>
+                  <date>1633. [i.e. 1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actual publication date from Wing.</note>
+                  <note>"The dragons blasphemous charge against her" (identified on UMI microfilm (Early English books, 1641-1700) reel 1883 as Wing (2nd ed.) D1984) has separate dated title page (dated 1651) and pagination; register is continuous.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31425:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <pb facs="tcp:31425:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <p>Given to the ELECTOR Prince CHARLS of the <hi>Rhyne</hi> from the Lady ELEANOR, <hi>Anno</hi> 1633.</p>
+            <p>At Her being in <hi>Holland</hi> or <hi>Belgia.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Lamentation, Mourning and Wo.</hi>
+                  <note place="margin">Witneſs, how waſht the late Cup; that of <hi>Noahs, &amp;c.</hi>
+                  </note>
+               </p>
+            </q>
+            <p>
+               <hi>AMSTERDAM:</hi> Printed by <hi>Frederick Stam.</hi> 1633.</p>
+         </div>
+      </front>
+      <body>
+         <div type="song">
+            <pb facs="tcp:31425:2"/>
+            <!-- PDF PAGE 104 -->
+            <pb n="3" facs="tcp:31425:2"/>
+            <!-- PDF PAGE 104 -->
+            <head>To the PALSGRAVE of the <hi>Rhyne,</hi>
+               <note place="margin">Took Eſſay of the Cup, 1635. miſe<g ref="char:EOLhyphen"/>rably impri<g ref="char:EOLhyphen"/>ſoned by the French Houſe of <hi>Medicis</hi> thoſe <hi>Medes.</hi> Cup Bearer to the Empe<g ref="char:EOLhyphen"/>ror.</note> 
+               <hi>Charls Prince Elector:</hi> The Palm of the Hand, <hi>Dan. Cap.</hi> 5.</head>
+            <opener>The Tune to, <hi>Who liſt a Soldiers life, &amp;c.</hi>
+            </opener>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſal.</hi>
+                  </bibl>
+                  <p>I will utter my grave matter on the Harp.</p>
+               </q>
+            </epigraph>
+            <byline>By the Lady <hi>Eleanor, Anno</hi> 1633.</byline>
+            <div type="part">
+               <head>
+                  <hi>Babylon</hi> or Confuſion.</head>
+               <lg>
+                  <l>TO <hi>Sion</hi> moſt belov'd I ſing of <hi>Babylon</hi> a Song,</l>
+                  <l>Concerns you more full well I wot then ye do think upon.</l>
+                  <l>
+                     <hi>Belſhazzar,</hi> lo, behold the King feaſting his thouſand Lords:</l>
+                  <l>
+                     <hi>Phoebus</hi> and <hi>Mars</hi> prais'd on each ſtring, every day records.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> The Golden Veſſels of Gods Houſe boldly in drank about:<note place="margin">As when <hi>Prague</hi> loſt, he feaſting with Ambaſ<g ref="char:EOLhyphen"/>ſadors was betray'd, <hi>&amp;c.</hi>
+                     </note>
+                  </l>
+                  <l>His own ('tis like) were made away, bids holy things bring out;</l>
+                  <l>Praiſing of Gold and Braſs the gods, of Iron, Wood and Stone,</l>
+                  <l>See, hear, nor know not, out alas, praiſed in Court alone.</l>
+               </lg>
+               <lg>
+                  <pb n="4" facs="tcp:31425:3"/>
+                  <!-- PDF PAGE 105 -->
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> A hand appears, lo, in his ſight, as he did drink the Wine,<note place="margin">
+                        <hi>Daniel</hi> ſigni<g ref="char:EOLhyphen"/>fying judge<g ref="char:EOLhyphen"/>ment of God. Execution place.</note>
+                  </l>
+                  <l>Upon the Wall againſt the light it wrote about a line</l>
+                  <l>In preſence of his numerous Peers,<note place="margin">
+                        <hi>Stiled</hi> Charls Stuart.</note> not ſet an hour full,</l>
+                  <l>In Loyns nor Knees had he no might, chang'd as a ghaſtly skull.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> Who might it read,<note place="margin">Pleaded hard.</note> alas, the thing, <hi>Belſhazzar</hi> loud doth ſhout;</l>
+                  <l>Calls for Magicians all with ſpeed, came in, as wiſe went out.</l>
+                  <l>
+                     <hi>Caldeans</hi> and Southſayers ſage, the meaning who ſo can</l>
+                  <l>Of <hi>Mene Mene</hi> third Realms Peer in Scarlet-Robe the Man.<note place="margin">Iudgement Parliament. The Preſident in Scarlet.</note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> His Majeſty forgets to Sup, Nobles aſtoniſh'd all;<note place="margin">Supt not, drank a glaſs of wine.</note>
+                  </l>
+                  <l>Muſicians may their Pipes put up, ſtood gazing on the wall.</l>
+                  <l>The pleaſant Wine at length as ſharp too late, till thought upon</l>
+                  <l>Diviſion of another ſtrain unfolds the Fingers long,<note place="margin">Sentenced his Head to be ſe<g ref="char:EOLhyphen"/>vered, <hi>&amp;c.</hi>
+                     </note>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="5" facs="tcp:31425:3"/>
+                  <!-- PDF PAGE 105 -->
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> When to the Banqueting-houſe ſo wide,<note place="margin">Soldiers alarm.</note> where hoſts of Lords did ring,</l>
+                  <l>So wiſely came the Graceful Queen, ſaid, <hi>Ever live, O King.</hi>
+                  </l>
+                  <l>
+                     <hi>Lo trouble, O King,</hi>
+                     <note place="margin">A handmaid that followed him. Alſo one Mrs <hi>Grace Cary, Anno</hi> 1639. A Propheteſs.</note> 
+                     <hi>thy thoughts no more forthwith ſhall it be read;</hi>
+                  </l>
+                  <l>Daniel <hi>there is, who heretofore like doubts did over spread.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/> Could all interpretating ſhew which profound man ſoon brought,</l>
+                  <l>On whom confer the King needs would his Orders ſight unſought.<note place="margin">Give his Or<g ref="char:EOLhyphen"/>der to B. <hi>Juxſton, &amp;c.</hi> not permitted to ſend it to his ſon.</note>
+                  </l>
+                  <l>Needleſs preferments yours reſerve, Sir, keep your gifts in ſtore:</l>
+                  <l>High Offices let others gain, there's give too much afore.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/> Yet unto thee ſhall here make known, reſolve this Oracle true,</l>
+                  <l>Sure as in thy Banqueting houſe,<note place="margin">The fatal place.</note> where all that comes may view:</l>
+                  <l>The Veſſels of my God are brought,<note place="margin">(Sabbaths.)</note> the Palm ſalutes thee know</l>
+                  <l>Herewith; for theſe profan'd by thee threatneth the fatal blow.</l>
+               </lg>
+               <lg>
+                  <pb n="6" facs="tcp:31425:4" rendition="simple:additions"/>
+                  <!-- PDF PAGE 106 -->
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="9"/> O King, even thou, the moſt high God unto thy Grandſire bold,</l>
+                  <l>
+                     <hi>Caldean</hi> Land,<note place="margin">
+                        <hi>Caldeans</hi> ſig<g ref="char:EOLhyphen"/>nifying union mingling, or as Devils, Witches, <hi>Scot<g ref="char:EOLhyphen"/>land</hi> of old, called <hi>Calcdo<g ref="char:EOLhyphen"/>nia.</hi>
+                     </note> a Nation fell gave them to have and hold.</l>
+                  <l>The Royal Scepter and the Crown advanc'd whom he would have,</l>
+                  <l>And whom he would he pulled down, could put to death and ſave:</l>
+               </lg>
+               <lg>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="10"/> Till walking at the Twelve moneth end, ſubject full Tides to fall:<note place="margin">
+                        <hi>January</hi> 30. marched from <hi>S. James</hi> Park.</note>
+                  </l>
+                  <l>Excellent Majeſty how gone, Court exchang'd for the Stall.</l>
+                  <l>Thy Grandſire on as came to paſs,<note place="margin">
+                        <hi>Nebuchadnez<g ref="char:EOLhyphen"/>zar,</hi> a Father and Grandfa<g ref="char:EOLhyphen"/>ther, both ſig<g ref="char:EOLhyphen"/>nifying Be<g ref="char:EOLhyphen"/>wailing of the Kinred.</note> at all yet minded not,</l>
+                  <l>As if a feigned Story, but his miſerable Lot.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="11"/> Expelled was,<note place="margin">By whom termed <hi>Round dealing Gen<g ref="char:EOLhyphen"/>tlemen of Weſtminſter.</hi> As multi<g ref="char:EOLhyphen"/>tudes grazing at <hi>S. James</hi> of late; which forenoon the Ducks, <hi>viz. Duces, &amp;c.</hi> mounted, or flew over the Scaffold.</note> whoſe lofty words memory can ſpeak well,</l>
+                  <l>Hardned in pride, unheard of ſuch, the wilde Aſs with did dwell:</l>
+                  <l>Sent to the Ox it owner knows, undreamt of this his Doom:</l>
+                  <l>Fowls their appointed time obſerve, wots not the Night from Noon.</l>
+               </lg>
+               <lg>
+                  <pb n="7" facs="tcp:31425:4"/>
+                  <!-- PDF PAGE 106 -->
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="12"/> Even that <hi>Aſſyrians</hi> haughty heart droven out with ſuch as bray,</l>
+                  <l>The Diadem fits thee as well, Aſſe go as much to ſay.</l>
+                  <l>Earth that of late made ſeem to dance, with Songs of Triumph high</l>
+                  <l>All overgrown, abas'd as much,<note place="margin">Diſguiſed Himſelf. Common Soldiers.</note> among the Herd doth lie.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="13"/> Bewail'd alas, dejected thus, fed, grazing now full low,</l>
+                  <l>Whileſt they bedew the Earth with tears, diſcerns not friend from foe.</l>
+                  <l>Fields, Woods, for wo ring out as well as Men, and Ecchoes call<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Mercy this Savage King upon in holy Temples all.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="14"/> By Star-light for device who gave, as graven on his Shield,</l>
+                  <l>An Eagle mounted on the Creſt, a Hart in ſilver field.<note place="margin">Threatens Entrails.</note>
+                  </l>
+                  <l>Extold again his God as high, bleſſed him all his days:</l>
+                  <l>Others reputes them as nothing,<note place="margin">His Prayer Book.</note> alone proclaims his praiſe.</l>
+               </lg>
+               <lg>
+                  <pb n="8" facs="tcp:31425:5"/>
+                  <!-- PDF PAGE 107 -->
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="15"/> Whoſe ſeven times till ſerved forth, in vain for reſt to crave;<note place="margin">Aged ſeven times ſeven, in 49. King and Queen of <hi>Scots</hi> both put to death of late. Render Him<g ref="char:EOLhyphen"/>ſelf a priſoner to the <hi>Scots.</hi> Promiſed or pretended.</note>
+                  </l>
+                  <l>Whom Devils Legions do poſſeſs, a Monarch turn'd a Slave.</l>
+                  <l>Depoſed thus thou kneweſt well, <hi>Belſhazzar,</hi> O his Son,</l>
+                  <l>And renown'd ſo deliverance voiced by every one.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="16"/> A day a Trumpet made to ſound for Generations all;<note place="margin">Beſide 1605. <hi>November</hi> the fifth, <hi>&amp;c.</hi>
+                     </note>
+                  </l>
+                  <l>And with a Feaſt ſolemnized, that no time might recal:</l>
+                  <l>The memory of ſuch an act, yet as it had not been,</l>
+                  <l>Thy Favorites who are more this day, or marched to thy Kin.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="17"/> Then they adoring Wood and Stone, Statutes forſake Divine;</l>
+                  <l>Meditate carved Statutes on in Faction do combine</l>
+                  <l>With Enemies of God moſt high,<note place="margin">The <hi>Stuarts</hi> matcht with <hi>A rundel</hi> and <hi>Weſton, &amp;c.</hi>
+                     </note> to thruſt him from his Throne,</l>
+                  <l>And thus haſt lifted up thy ſelf ſo facile and ſo prone.</l>
+               </lg>
+               <lg>
+                  <pb n="9" facs="tcp:31425:5"/>
+                  <!-- PDF PAGE 107 -->
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="18"/> Againſt the Lord of Heaven thy King,<note place="margin">He laſt of thoſe <hi>Caldean Belchaſer.</hi> (Anagr) <hi>Charles Be<g ref="char:EOLhyphen"/>headed,</hi> given him, <hi>Anno</hi> 33.</note> not humbling of thine heart,</l>
+                  <l>But ſtiffned haſt with pride thy neck unto thy future ſmart.</l>
+                  <l>Behold polluting holy things with Sabbath ſo Divine,</l>
+                  <l>Idolatry and Revels in that day and night made thine.<note place="margin">Altars again adored.</note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="19"/> But he in whoſe hands reſts thy life, even breath, and thy ways all,</l>
+                  <l>Thou haſt not glorified him ſent this wrote on the Wall.<note place="margin">Tranſported from <hi>Babylon</hi> the Great, to Great <hi>Britain, Mene, Mene Laus,</hi> The power of the People.</note>
+                  </l>
+                  <l>God numbered thy Kingdom hath ended; the Hand points here,</l>
+                  <l>In Ballance his weighed thee too, the ſet hour drawing neer.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="20"/> How light ſoever ſet by thee, thou as thy weightleſs Gold,<note place="margin">Crowned and married 1625. was defeated 1645.</note>
+                  </l>
+                  <l>His Image wanting found much more lighter then can be told.</l>
+                  <l>Parted, divided thine Eſtate, given to the <hi>Medes</hi> is;<note place="margin">Reveal O Daniel. <hi>(Anagr.)</hi> Eleanor Audley.</note>
+                  </l>
+                  <l>At hand as theſe bids it adieu, finiſh'd thy Majeſties.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="epilogue">
+            <pb n="10" facs="tcp:31425:6"/>
+            <!-- PDF PAGE 108 -->
+            <p>WHich in ſeveral Courts by her an<g ref="char:EOLhyphen"/>ſwered, <hi>anno</hi> 33. As then <hi>October</hi> 23, ſhe committed to the Gate houſe cloſe Priſon<g ref="char:EOLhyphen"/>er, by the ſpace of about two years, for theſe (a teſtimony to all Nations) Printed beyond Sea; ſo again the Three and twen<g ref="char:EOLhyphen"/>tieth of <hi>October</hi> was the Iriſh Maſſacre; and likewiſe <hi>Kenton</hi> fight, <hi>October</hi> 23, ſince when Reprinted <hi>anno</hi> 48. <hi>Septembr.</hi> the en<g ref="char:EOLhyphen"/>ſuing Moneth, were given to the then Lord General, with her own hand ſuper<g ref="char:EOLhyphen"/>ſcribed, THE ARMIES COM<g ref="char:EOLhyphen"/>MISSION: <hi>Behold he cometh with ten thouſand of his Saints to execute judgement on all,</hi> (Jude, <hi>&amp;c.</hi>) replied by him, <hi>But we are not all Saints.</hi> The Army at St. <hi>Albons</hi> then, when unexpected, came up nevertheleſs doing thereafter that, <hi>Ianuary</hi> 30. At her re<g ref="char:EOLhyphen"/>turn thence, ſhe taking up at <hi>Whitehal</hi> her Lodging, where attending their coming, to be a beholder of the Prophetical Tra<g ref="char:EOLhyphen"/>gedy, <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31425:6"/>
+            <!-- PDF PAGE 108 -->
+         </div>
+      </body>
+   </text>
+</TEI>
